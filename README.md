@@ -18,14 +18,14 @@ Clear, up-to-date comparison of **salaries vs required skills** across the most 
 
 | Role                      | Median Salary | Avg. Skills Required | Notes                                              |
 |---------------------------|---------------|----------------------|----------------------------------------------------|
-| Senior Data Scientist     | $155,000      | 5.3                  | Highest pay                                        |
-| Senior Data Engineer      | $147,500      | 8.1                  | Requires by far the most skills                      |
-| Data Scientist            | $127,500      | 4.9                  |                                                    |
-| Data Engineer             | $125,000      | 7.0                  | High skill load, strong pay                         |
-| Senior Data Analyst       | $111,175      | 4.4                  |                                                    |
-| Machine Learning Engineer | $107,550      | 5.3                  |                                                    |
-| Data Analyst              | $90,000       | 3.6                  | Lowest skill requirements                          |
-| Business Analyst          | $85,000       | 3.3                  |                                                    |
+| Senior Data Scientist     | $155,000      | 5                    | Highest pay                                        |
+| Senior Data Engineer      | $147,500      | 8                    | Requires by far the most skills                      |
+| Data Scientist            | $127,500      | 4                    |                                                    |
+| Data Engineer             | $125,000      | 7                    | High skill load, strong pay                         |
+| Senior Data Analyst       | $111,175      | 4                    |                                                    |
+| Machine Learning Engineer | $107,550      | 5                    |                                                    |
+| Data Analyst              | $90,000       | 3                    | Lowest skill requirements                          |
+| Business Analyst          | $85,000       | 3                    |                                                    |
 
 **Top-paying skills**: Python, Tableau, Oracle → ~$8–10k above median  
 **Senior Data Engineers** require **2 to 3 times more skills** than analysts, but are paid accordingly.
