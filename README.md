@@ -30,7 +30,7 @@ Clear, up-to-date comparison of **salaries vs required skills** across the most 
 **Top-paying skills**: Python, Tableau, Oracle → ~$8–10k above median  
 **Senior Data Engineers** require **2 to 3 times more skills** than analysts, but are paid accordingly.
 
-### Full tables & pivot tables are inside the Excel file above
+#Full tables & pivot tables are inside the Excel file above
 
 Made with authentic 2025 job-posting data — helpful for salary benchmarking, offer negotiation, or team budgeting.
 ---
