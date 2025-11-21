@@ -28,7 +28,7 @@ Clear, up-to-date comparison of **salaries vs required skills** across the most 
 | Business Analyst          | $85,000       | 3.3                  |                                                    |
 
 **Top-paying skills**: Python, Tableau, Oracle → ~$8–10k above median  
-**Senior Data Engineers** require **2–3× more skills** than analysts but are paid accordingly.
+**Senior Data Engineers** require **2 to 3 times more skills** than analysts, but are paid accordingly.
 
 ### Full tables & pivot tables are inside the Excel file above
 
